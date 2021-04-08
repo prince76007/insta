@@ -1,0 +1,151 @@
+<!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+  -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/logInLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:id="@+id/instaLogo"
+        style="@style/instaTheme"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="90dp"
+        android:text="@string/app_name" />
+
+    <EditText
+        android:id="@+id/username"
+        style="@style/inputStyle"
+        android:autofillHints="AUTOFILL_HINT_EMAIL"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/instaLogo"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:hint="@string/username"
+        android:inputType="textPersonName" />
+
+    <EditText
+        android:autofillHints="AUTOFILL_HINT_PASSWORD"
+        android:id="@+id/password"
+        style="@style/inputStyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/username"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="18dp"
+        android:hint="@string/password"
+        android:inputType="textPassword" />
+
+    <Button
+        android:id="@+id/loginButton"
+        style="@style/loginButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/password"
+        android:layout_marginTop="18dp"
+        android:clickable="false"
+        android:onClick="logIn"
+        android:padding="15dp"
+        android:text="@string/loginButton"
+        android:textSize="16sp" />
+
+    <TextView
+        android:id="@+id/forgetLink"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/loginButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="18dp"
+        android:clickable="true"
+        android:gravity="center"
+        android:text="@string/forgetPassLink"
+        android:textSize="14sp"
+        android:focusable="true" />
+
+    <View
+        android:id="@+id/divider"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/forgetLink"
+        android:layout_alignEnd="@id/oR"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="35dp"
+        android:background="?android:attr/listDivider" />
+
+    <View
+        android:id="@+id/divider2"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_below="@id/forgetLink"
+        android:layout_alignStart="@id/oR"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="35dp"
+        android:layout_marginTop="24dp"
+        android:background="?android:attr/listDivider" />
+
+    <TextView
+        android:id="@+id/oR"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/forgetLink"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="13dp"
+        android:text="@string/or"
+        android:textSize="17sp" />
+
+    <TextView
+        android:id="@+id/logInFb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/oR"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="15sp"
+        android:clickable="true"
+        android:padding="5sp"
+        android:text="@string/log_in_with_facebook"
+        android:textColor="@color/logInButtonEnable"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:focusable="true" />
+
+    <View
+        android:id="@+id/divider3"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:layout_above="@id/singUp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="12dp"
+        android:background="?android:attr/listDivider" />
+
+    <TextView
+        android:id="@+id/singUp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:clickable="true"
+        android:focusable="true"
+        android:text="@string/signUp"
+        android:textSize="14sp" />
+
+</RelativeLayout>

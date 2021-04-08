@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-cast-framework:12.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a84ff9b07079d7b433c31fbb86695505/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a84ff9b07079d7b433c31fbb86695505/jetified-play-services-cast-framework-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a84ff9b07079d7b433c31fbb86695505/jetified-play-services-cast-framework-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78d8c748e4bbcf3a4df1f82127e09617/jetified-play-services-cast-framework-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78d8c748e4bbcf3a4df1f82127e09617/jetified-play-services-cast-framework-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/78d8c748e4bbcf3a4df1f82127e09617/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/012ea44ffadf7ec5d02f53b934c33caa/jetified-play-services-cast-framework-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/012ea44ffadf7ec5d02f53b934c33caa/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/012ea44ffadf7ec5d02f53b934c33caa/jetified-play-services-cast-framework-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/254c5da0363f07f88d2abf5b54ebce5e/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/254c5da0363f07f88d2abf5b54ebce5e/jetified-play-services-cast-framework-12.0.1/jars/classes.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f51d99885d22c4c94e759de2664dcc0/jetified-play-services-cast-framework-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f51d99885d22c4c94e759de2664dcc0/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5f51d99885d22c4c94e759de2664dcc0/jetified-play-services-cast-framework-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/62ed3d43d1ce3dce2a71fdb6ac508134/jetified-play-services-cast-framework-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/62ed3d43d1ce3dce2a71fdb6ac508134/jetified-play-services-cast-framework-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/62ed3d43d1ce3dce2a71fdb6ac508134/jetified-play-services-cast-framework-12.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

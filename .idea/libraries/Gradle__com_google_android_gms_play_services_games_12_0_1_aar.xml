@@ -1,0 +1,28 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-games:12.0.1@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5aa71be87ac6c638a93c55481492203d/jetified-play-services-games-12.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5aa71be87ac6c638a93c55481492203d/jetified-play-services-games-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5aa71be87ac6c638a93c55481492203d/jetified-play-services-games-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6f56dfb4eb7498ad5fe5d6ff77da945f/jetified-play-services-games-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b6616799328e0656fa1685cfadc79ac8/jetified-play-services-games-12.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b6616799328e0656fa1685cfadc79ac8/jetified-play-services-games-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/b6616799328e0656fa1685cfadc79ac8/jetified-play-services-games-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4aa07297777b86a6e063ec3c95ce2a9/jetified-play-services-games-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4aa07297777b86a6e063ec3c95ce2a9/jetified-play-services-games-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c4aa07297777b86a6e063ec3c95ce2a9/jetified-play-services-games-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/c1e657a1d8b7969c72e9915fa4edd869/jetified-play-services-games-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/64f93ba8cb3b1b6a16758f1993ae41bf/jetified-play-services-games-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/64f93ba8cb3b1b6a16758f1993ae41bf/jetified-play-services-games-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/64f93ba8cb3b1b6a16758f1993ae41bf/jetified-play-services-games-12.0.1/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bef8478a58b76710f66ea90a94426869/jetified-play-services-games-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bef8478a58b76710f66ea90a94426869/jetified-play-services-games-12.0.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/bef8478a58b76710f66ea90a94426869/jetified-play-services-games-12.0.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c0a4ae61d553893c079c5ef86d6d851/jetified-play-services-games-12.0.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c0a4ae61d553893c079c5ef86d6d851/jetified-play-services-games-12.0.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/4c0a4ae61d553893c079c5ef86d6d851/jetified-play-services-games-12.0.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

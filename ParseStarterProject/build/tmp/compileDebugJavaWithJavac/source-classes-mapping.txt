@@ -1,0 +1,33 @@
+com/parse/starter/StarterApplication.java
+ com.parse.starter.StarterApplication
+com/parse/starter/MainActivity.java
+ com.parse.starter.MainActivity
+ com.parse.starter.MainActivity$1
+ com.parse.starter.MainActivity$2
+ com.parse.starter.MainActivity$3
+ com.parse.starter.MainActivity$4
+ com.parse.starter.MainActivity$5
+com/parse/starter/model/FeedModel.java
+ com.parse.starter.model.FeedModel
+com/parse/starter/model/user.java
+ com.parse.starter.model.user
+com/parse/starter/BuildConfig.java
+ com.parse.starter.BuildConfig
+com/parse/starter/adapter/FeedAdapter.java
+ com.parse.starter.adapter.FeedAdapter
+ com.parse.starter.adapter.FeedAdapter$FeedViewHolder
+com/parse/starter/SignUp.java
+ com.parse.starter.SignUp
+ com.parse.starter.SignUp$1
+ com.parse.starter.SignUp$2
+ com.parse.starter.SignUp$3
+ com.parse.starter.SignUp$4
+com/parse/starter/UserFeedsActivity.java
+ com.parse.starter.UserFeedsActivity
+ com.parse.starter.UserFeedsActivity$1
+ com.parse.starter.UserFeedsActivity$1$1
+com/parse/starter/UserList.java
+ com.parse.starter.UserList
+ com.parse.starter.UserList$1
+ com.parse.starter.UserList$2
+ com.parse.starter.UserList$3
